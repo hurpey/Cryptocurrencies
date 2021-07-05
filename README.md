@@ -12,3 +12,17 @@ Deliverable 1: Preprocessing the Data for PCA
 Deliverable 2: Reducing Data Dimensions Using PCA
 Deliverable 3: Clustering Cryptocurrencies Using K-means
 Deliverable 4: Visualizing Cryptocurrencies Results
+
+
+Below are snapshots of the results of analysis performed
+
+<img width="591" alt="img 2" src="https://user-images.githubusercontent.com/79670933/124410629-e2dcb200-dd18-11eb-9c14-da37c3595ff5.png">
+
+
+![img 3](https://user-images.githubusercontent.com/79670933/124410632-e2dcb200-dd18-11eb-9c48-ed54b52eb19d.png)
+
+
+<img width="951" alt="Img 4" src="https://user-images.githubusercontent.com/79670933/124410633-e3754880-dd18-11eb-8691-1b7fa8e046c4.png">
+
+
+<img width="884" alt="Img 1" src="https://user-images.githubusercontent.com/79670933/124410634-e3754880-dd18-11eb-8ead-6d76029df69a.png">
