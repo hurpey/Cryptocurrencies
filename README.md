@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-Overview of Analysis
+**Overview of Analysis**
 
 This project involves creating an analysis for clients who are preparing to get into the cryptocurrency market. It involves creating a report that includes what cryptocurrencies are on the trading market, and how they could be grouped to create a classification system for a new investment.
 
